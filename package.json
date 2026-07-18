@@ -1,0 +1,7 @@
+{
+  "name": "html-css-js-render-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API nhận HTML + CSS + JS, ghép thành 1 trang hoàn chỉnh và trả về ngay (stateless, không lưu trữ).",
+  "scripts": {}
+}
