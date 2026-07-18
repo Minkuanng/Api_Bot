@@ -1,7 +1,8 @@
 {
-  "name": "html-css-js-render-api",
-  "version": "1.0.0",
+  "name": "html-render-api",
+  "version": "4.0.0",
   "private": true,
-  "description": "API nhận HTML + CSS + JS, ghép thành 1 trang hoàn chỉnh và trả về ngay (stateless, không lưu trữ).",
+  "type": "module",
+  "description": "API render HTML với 2 mức mã hóa: basic (Base64) và advanced (AES-256-GCM). Endpoint: /api/render (giải mã & render), /api/encode (mã hóa để test).",
   "scripts": {}
 }
